@@ -1,1 +1,1 @@
-# zmk-config-agar-mini-ble
+# zmk-config for Agar Mini BLE
