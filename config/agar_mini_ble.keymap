@@ -37,7 +37,7 @@
 
         symnum {
             bindings = <
-                &trans  &hmr N1 F1  &hmr N2 F2  &hmr N3 F3  &hmr N4 F4  &hmr N5 F5    &hmr N6 F6  &hmr N7 F7  &hmr N8 F8  &hmr N9 F9  &hmr N0 F10  &kp GRAVE  &trans
+                &trans  &hmr F1 N1  &hmr F2 N2  &hmr F3 N3  &hmr F4 N4  &hmr F5 N5    &hmr F6 N6  &hmr F7 N7  &hmr F8 N8  &hmr F9 N9  &hmr F0 N10  &kp GRAVE  &trans
                 &trans  &kp MINUS   &kp LPAR    &kp RPAR    &kp EQUAL   &hmr F11 F12  &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &trans       &trans
                 &trans  &kp LBKT    &kp LBRC    &kp RBRC    &kp RBKT    &trans        &trans      &kp PIPE    &trans      &trans      &trans       &trans
                         &trans      &trans                  &trans                    &trans                                          &trans       &trans
